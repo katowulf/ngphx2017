@@ -16,11 +16,14 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyBwDHocb1Mr5eOum7XoqaOa4NvVPWgMNVo",
-    authDomain: "ngphx-test.firebaseapp.com",
-    databaseURL: "https://ngphx-test.firebaseio.com",
-    projectId: "ngphx-test",
-    storageBucket: "ngphx-test.appspot.com",
-    messagingSenderId: "898569356354"
+    // ***********************************************************************************************************************
+    // * TODO(DEVELOPER): Update values according to: Firebase Console > Overview > Add Firebase to your web app. *
+    // ***********************************************************************************************************************
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: ''
   }
 };
