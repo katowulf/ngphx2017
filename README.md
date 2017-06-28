@@ -1,39 +1,7 @@
-# Firebase SDK for Cloud Functions (Angular) Codelab - Start code
+# ng-phx 2017 livecode
 
-This folder contains the start code of the [Firebase SDK for Cloud Functions (Angular) Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/).
+This project contains the final version of my live coding session. It should be use for reference only. The material here is outdated (from an early alpha version of AngularFire2 and beta version of Functions)
 
-If you'd like to jump directly to the end and see the finished code head to the [cloud-functions-angular](../cloud-functions-angular) directory.
+For learning, visit [AngularFire2](https://github.com/angular/angularfire2)'s getting started guide, and the [Cloud Functions samples](https://github.com/firebase/functions-samples).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
-
-# Running locally
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-# Deploying
-
-Run `firebase deploy` to deploy hosting, database, and functions. Run
-`firebase deploy --except` to only deploy hosting and database.
+Visit [katowulf.com/ngphx](katowulf.com/ngphx) to see the presentation.
